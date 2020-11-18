@@ -1,6 +1,3 @@
-import {
-    run
-} from "./app/app";
 import "./main.scss"
 import "magnific-popup"
 
@@ -13,8 +10,3 @@ import "magnific-popup"
             }
         });
     });
-
-   function hidePreloader(){
-    $('.preloader').addClass("hidden");
-    console.log( $('.preloader'))
-   }
