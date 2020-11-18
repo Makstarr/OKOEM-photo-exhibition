@@ -6,7 +6,10 @@ sans-serif;
 @import "~magnific-popup/src/css/main.scss";
 @import "~normalize-css/normalize.css";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
-
+.mfp-bg{
+    opacity: 1;
+    background-color: $myGray;
+}
 .hidden {
     display: none;
 }
