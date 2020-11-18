@@ -472,7 +472,6 @@ flex-wrap: wrap;
 @media (max-width:900px), (min-height:1500px) and (max-width:1500px){
     .header{
         max-height: 2000px;
-        height: 100vh;
         &__center{
             max-height: 1800px;
             height: calc(100vh - 15vh);
@@ -574,5 +573,13 @@ flex-wrap: wrap;
     }
     .footer img{
         display: none!important;
+    }
+}
+
+
+@media(max-width: 800px) {
+    .main-gallery__item-content p {
+        padding: 0 15px;
+        font-size: 16px;
     }
 }
