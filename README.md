@@ -1,7 +1,7 @@
 # OKOEM-photo-exhibition
 Разработка страницы/онлайн выставки для интеграции на сайт Wordpress
 
-# Результат 
+# Результат / Production
 https://okoemstudio.ru/lichnoe-vremya/
 
 # Стэк
